@@ -1,0 +1,22 @@
+---
+title: "EEB587 Final Checklist"
+author: "Julia Butler"
+date: "5/5/2022"
+output: html_document
+---
+
+**Checklist to keep myself on track**
+
+1. Get sequences from Lab
+2. Build alignments
+3. Run each gene on it's own, get bootstrap support
+4. Run each possible pair of genes, get bootstrap support
+5. Rubn each triplet of genes, get bootstrap support
+6. Run all genes, get bootstrap support
+7. Run files in RAxML
+8. Load in the bootstrap tree
+9. Store bootstrap support for the 8 clades of interest 
+10. Plot results
+11. Analyze how each gene helps/hurts support
+
+
