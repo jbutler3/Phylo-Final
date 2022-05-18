@@ -1,0 +1,24 @@
+---
+title: "J. Butler Phylo Final Project Rubric"
+author: "Julia Butler"
+date: "5/5/2022"
+output: html_document
+---
+
+**Final project is worth 100 pts**
+
+Main question: For a Fissidens phylogeny, which combination of genes provides the best resolution?
+
+Which genes are most important for understanding the monophyly of Fissidens and its clades?
+------------------
+
+20 pts: Obtain alignments and generate concatenations for each combination 
+
+25 pts: Generate bootstrap trees utilizing RAxML for each combination
+
+25 pts: Create a data frame for the b.s. values and create plots that best convey results
+
+30 pts: Create a rooted consensus tree and interpret the results.
+
+Total:      /100
+
